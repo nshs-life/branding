@@ -1,5 +1,3 @@
-# nshs.life Branding
-
 ![nshs-life banner](https://github.com/nshs-life/branding/blob/main/assets/banners/banner-gradient.svg)
 
 # Branding
