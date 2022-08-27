@@ -1,6 +1,6 @@
 # nshs.life Branding
 
-![nshs-life banner](https://github.com/nshs-life/branding/blob/main/assets/banners/banner-gradient.png)
+![nshs-life banner](https://github.com/nshs-life/branding/blob/main/assets/banners/banner-gradient.svg)
 
 # Branding
 **The official branding sheet for nshs.life**
